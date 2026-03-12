@@ -5,7 +5,7 @@
       "title": "Facility Layout Optimization",
       "partner": {
         "name": "Acme Manufacturing R&D",
-        "logo_url": "ncat-ise-portfolio/assets/placeholder-logo.png"
+        "logo_url": "/assets/placeholder-logo.png"
       },
       "stage1_intro": {
         "problem": "Current material flow causes a 20% delay in assembly processes.",
@@ -27,10 +27,10 @@
           "Tradeoff Analysis"
         ],
         "results": "Achieved a 22% reduction in cycle time and improved worker ergonomics.",
-        "supporting_figure_url": "ncat-ise-portfolio/assets/chart-01.png"
+        "supporting_figure_url": "/assets/chart-01.png"
       },
       "stage4_team": {
-        "photo_url": "ncat-ise-portfolio/assets/team-01.png",
+        "photo_url": "/assets/team-01.png",
         "names": [
           "Alicia Martinez",
           "Brandon Smith",
@@ -43,14 +43,14 @@
       "title": "Simio Plant Layout Simulation",
       "partner": {
         "name": "Global Automotive Parts",
-        "logo_url": "ncat-ise-portfolio/assets/placeholder-logo.png"
+        "logo_url": "/assets/placeholder-logo.png"
       },
       "stage1_intro": {
         "problem": "Unpredictable bottlenecks forming at the stamping press queue.",
         "goals": "Build a responsive digital twin simulation to optimize routing schedules."
       },
       "stage2_framework": {
-        "visual_abstract_url": "ncat-ise-portfolio/assets/simio-layout.png",
+        "visual_abstract_url": "/assets/simio-layout.png",
         "objectives": "Increase machine utilization by 10% and reduce WIP inventory.",
         "constraints": [
           "No new capital equipment purchases allowed",
@@ -64,10 +64,10 @@
           "Queueing Theory"
         ],
         "results": "Identified a buffer resizing strategy that increased total throughput by 14%.",
-        "supporting_figure_url": "ncat-ise-portfolio/assets/chart-01.png"
+        "supporting_figure_url": "/assets/chart-01.png"
       },
       "stage4_team": {
-        "photo_url": "ncat-ise-portfolio/assets/team-01.png",
+        "photo_url": "/assets/team-01.png",
         "names": [
           "David Johnson",
           "Elena Rossi"
@@ -79,14 +79,14 @@
       "title": "Assembly Line Time Study",
       "partner": {
         "name": "AeroTech Components",
-        "logo_url": "ncat-ise-portfolio/assets/placeholder-logo.png"
+        "logo_url": "/assets/placeholder-logo.png"
       },
       "stage1_intro": {
         "problem": "High variance in cycle times causing downstream starvation.",
         "goals": "Standardize work instructions and balance the production line."
       },
       "stage2_framework": {
-        "visual_abstract_url": "ncat-ise-portfolio/assets/assembly-time.png",
+        "visual_abstract_url": "/assets/assembly-time.png",
         "objectives": "Establish reliable standard times for all 15 assembly sub-tasks.",
         "constraints": [
           "Operator fatigue must be accounted for",
@@ -100,10 +100,10 @@
           "Ergonomic Assessment"
         ],
         "results": "Re-balanced 3 workstations, dropping the average cycle time variance by 40%.",
-        "supporting_figure_url": "ncat-ise-portfolio/assets/chart-01.png"
+        "supporting_figure_url": "/assets/chart-01.png"
       },
       "stage4_team": {
-        "photo_url": "ncat-ise-portfolio/assets/team-01.png",
+        "photo_url": "/assets/team-01.png",
         "names": [
           "Frank Zhao",
           "Grace Lee",
@@ -116,14 +116,14 @@
       "title": "LSS Packaging Waste Reduction",
       "partner": {
         "name": "Prime Logistics Solutions",
-        "logo_url": "ncat-ise-portfolio/assets/placeholder-logo.png"
+        "logo_url": "/assets/placeholder-logo.png"
       },
       "stage1_intro": {
         "problem": "Excessive corrugated cardboard waste costing $200k annually.",
         "goals": "Apply Lean Six Sigma DMAIC framework to minimize material scrap."
       },
       "stage2_framework": {
-        "visual_abstract_url": "ncat-ise-portfolio/assets/abstract-01.png",
+        "visual_abstract_url": "/assets/abstract-01.png",
         "objectives": "Reduce cardboard scrap rate from 8% to under 3%.",
         "constraints": [
           "Cannot alter the primary product box dimensions",
@@ -137,10 +137,10 @@
           "Statistical Process Control (SPC)"
         ],
         "results": "Adjusted folding machine calibration, saving $150k in the first year.",
-        "supporting_figure_url": "ncat-ise-portfolio/assets/chart-01.png"
+        "supporting_figure_url": "/assets/chart-01.png"
       },
       "stage4_team": {
-        "photo_url": "ncat-ise-portfolio/assets/team-01.png",
+        "photo_url": "/assets/team-01.png",
         "names": [
           "Isabella Martinez",
           "Jack Wilshere"
@@ -152,14 +152,14 @@
       "title": "Supply Chain Network Optimization",
       "partner": {
         "name": "Northeast Retail Corp",
-        "logo_url": "ncat-ise-portfolio/assets/placeholder-logo.png"
+        "logo_url": "/assets/placeholder-logo.png"
       },
       "stage1_intro": {
         "problem": "Rising transportation costs due to inefficient warehouse routing.",
         "goals": "Develop a mathematical model to optimize distribution paths."
       },
       "stage2_framework": {
-        "visual_abstract_url": "ncat-ise-portfolio/assets/abstract-01.png",
+        "visual_abstract_url": "/assets/abstract-01.png",
         "objectives": "Minimize weekly transportation costs while maintaining 95% SLA delivery times.",
         "constraints": [
           "Fleet size is fixed at 50 trucks",
@@ -173,10 +173,10 @@
           "Heuristic Algorithms"
         ],
         "results": "Proposed new regional hub routes reducing total fleet mileage by 12%.",
-        "supporting_figure_url": "ncat-ise-portfolio/assets/chart-01.png"
+        "supporting_figure_url": "/assets/chart-01.png"
       },
       "stage4_team": {
-        "photo_url": "ncat-ise-portfolio/assets/team-01.png",
+        "photo_url": "/assets/team-01.png",
         "names": [
           "Karen Smith",
           "Liam Neeson",
